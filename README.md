@@ -1,3 +1,3 @@
 # JuliaSuzanoFraga.github.io
 # Oi Mundo
-#Pq eu não está dando cetro pqp
+# Pq nãp está dando certo essa merda dO
